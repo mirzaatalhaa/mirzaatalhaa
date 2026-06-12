@@ -260,41 +260,9 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 ---
 
-# Certifications
 
-## AWS
 
-![](https://img.shields.io/badge/AWS-Hands--On%20Projects-FF9900?style=for-the-badge&logo=amazonaws)
 
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-success?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-red?style=for-the-badge&logo=oracle)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://codechef.com)
-
-</div>
-
----
 
 # GitHub Analytics
 
@@ -318,15 +286,6 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mirzaatalhaa&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # Contribution Activity
 
@@ -338,15 +297,7 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 ---
 
-# Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
