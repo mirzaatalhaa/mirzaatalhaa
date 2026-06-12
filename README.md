@@ -351,4 +351,4 @@ Open To:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6d28d9,50:7c3aed,100:2563eb"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&section=footer&color=0:0F172A,30:0369A1,70:0EA5E9,100:7DD3FC"/>
