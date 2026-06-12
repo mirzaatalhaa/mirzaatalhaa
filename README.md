@@ -7,10 +7,10 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Cloud%20Engineer-AWS-1E293B?style=flat-square)
-![](https://img.shields.io/badge/Infrastructure-Terraform-0284C7?style=flat-square)
-![](https://img.shields.io/badge/Containers-Docker-38BDF8?style=flat-square)
-![](https://img.shields.io/badge/OS-Linux-475569?style=flat-square)
+![](https://img.shields.io/badge/B.Tech-CSE-0F172A?style=flat-square)
+![](https://img.shields.io/badge/AWS-Cloud%20Engineering-232F3E?style=flat-square&logo=amazonaws)
+![](https://img.shields.io/badge/DevOps-Terraform%20%26%20Docker-0369A1?style=flat-square)
+![](https://img.shields.io/badge/Location-Kerala%2C%20India-0EA5E9?style=flat-square)
 
 
 <br/>
