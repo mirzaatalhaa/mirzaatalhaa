@@ -267,9 +267,9 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzaatalhaa&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzaatalhaa&show_icons=true&theme=algolia&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaatalhaa&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaatalhaa&layout=compact&theme=algolia&hide_border=true"/>
 
 </div>
 
@@ -279,7 +279,7 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaatalhaa&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaatalhaa&theme=algolia&hide_border=true"/>
 
 </div>
 
@@ -290,7 +290,7 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=react-dark"/>
 
 </div>
 
