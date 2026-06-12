@@ -7,10 +7,10 @@
 
 <br/>
 
-![](https://img.shields.io/badge/AWS-Cloud%20Engineering-232F3E?style=flat-square&logo=amazonaws)
-![](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform)
-![](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
-![](https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Cloud%20Engineer-AWS-1E293B?style=flat-square)
+![](https://img.shields.io/badge/Infrastructure-Terraform-0284C7?style=flat-square)
+![](https://img.shields.io/badge/Containers-Docker-38BDF8?style=flat-square)
+![](https://img.shields.io/badge/OS-Linux-475569?style=flat-square)
 
 
 <br/>
