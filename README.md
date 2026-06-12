@@ -7,11 +7,11 @@
 
 <br/>
 
-![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/AWS-Cloud%20Engineering-orange?style=for-the-badge)
-![](https://img.shields.io/badge/DevOps-Infrastructure-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Kerala%2C%20India-success?style=for-the-badge)
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,githubactions"/>
+![](https://img.shields.io/badge/B.Tech-CSE-374151?style=flat-square)
+![](https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=flat-square&logo=amazonaws)
+![](https://img.shields.io/badge/DevOps-Infrastructure%20Automation-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/Kerala-India-22C55E?style=flat-square)
+
 
 <br/>
 
