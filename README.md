@@ -17,7 +17,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mirzatalhabaig163">
 <img src="https://img.shields.io/badge/LinkedIn-0369A1?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
