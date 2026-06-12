@@ -18,14 +18,14 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0369A1?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0369A1?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mirzatalhab163@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0EA5E9?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=0369A1&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=38BDF8"/>
 
 </p>
 
