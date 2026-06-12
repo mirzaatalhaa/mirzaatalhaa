@@ -15,21 +15,19 @@
 
 <br/>
 
-<a href="https://github.com/mirzaatalhaa">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0369A1?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mirzatalhab163@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=0369A1&label=Profile+Views"/>
 
-![](https://komarev.com/ghpvc/?username=mirzaatalhaa&style=for-the-badge&color=blueviolet)
+</p>
 
 </div>
 
