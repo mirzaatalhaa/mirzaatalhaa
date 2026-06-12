@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/AWS-Cloud%20Engineering-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/DevOps-Infrastructure-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Kerala%2C%20India-success?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,githubactions"/>
 
 <br/>
 
