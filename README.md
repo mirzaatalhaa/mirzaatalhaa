@@ -290,7 +290,7 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark"/>>
 
 </div>
 
