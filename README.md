@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,30:0369A1,70:0EA5E9,100:7DD3FC&text=Mirza%20Talha%20Baig&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=45&desc=Cloud%20Engineering%20•%20AWS%20•%20DevOps&descAlignY=65&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cloud+Engineering+Student;AWS+%7C+DevOps+%7C+Infrastructure+Automation;Building+Production-Ready+Cloud+Systems;Learning+by+Building+Real+Projects)](https://git.io/typing-svg)
 
 <br/>
 
