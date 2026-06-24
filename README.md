@@ -18,7 +18,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mirzatalhabaig163">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 
 <a href="mailto:mirzatalhab163@gmail.com">
@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://mirzatalha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=F59E0B"/>
