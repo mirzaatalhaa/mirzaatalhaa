@@ -198,11 +198,8 @@ open_to:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark&hide_border=true&area=true&area_color=0EA5E9&color=7DD3FC&line=0369A1&point=0EA5E9"/>
 </div>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Contribution Grid](https://ghchart.rshah.org/mirzaatalhaa)
+ 
 </div>
 ---
 
