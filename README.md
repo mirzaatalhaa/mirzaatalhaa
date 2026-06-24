@@ -110,6 +110,27 @@ open_to:
 </details>
 
 <details>
+<summary><b>FlightWatch — Full-Stack Cloud-Native Aviation Tracking Platform</b></summary>
+<br/>
+> A production-grade, fully deployed web app where aviation enthusiasts log and analyze aircraft sightings — with a real custom domain, real users, and real AWS infrastructure under the hood.
+ 
+🔗 **Live:** [flight-watch.xyz](https://flight-watch.xyz) &nbsp;|&nbsp; 📦 **Repo:** [github.com/mirzaatalhaa/FlightWatch](https://github.com/mirzaatalhaa/FlightWatch)
+ 
+**Stack:** React + Vite · Node.js · Express · PostgreSQL · Docker · Terraform · AWS (EC2 · RDS · S3 · CloudFront · ECR · Route 53 · ACM) · GitHub Actions · Nginx · JWT
+ 
+**What I built:**
+- React/Vite frontend hosted on S3, globally distributed via CloudFront with cache invalidation on every deploy
+- Dockerized Express backend on EC2 behind Nginx reverse proxy with Let's Encrypt SSL — serving a custom domain with ACM
+- PostgreSQL on RDS inside a **private subnet** — no public access, reachable only from the backend EC2 via security group rules
+- JWT authentication with bcryptjs password hashing for all protected API routes
+- Two independent GitHub Actions pipelines (backend + frontend) — push to `main`, everything else is fully automated: build → push to ECR → SSH into EC2 → pull & redeploy
+- Complete Terraform IaC: VPC, subnets, Route 53, CloudFront, RDS, EC2 with IAM Instance Profile — no manual console clicks
+**What I learned:** What it actually means to run a production system — DNS propagation, SSL cert provisioning, ECR image management, RDS SSL connection requirements, and debugging `bcrypt` compilation failures across OS boundaries inside Docker. The gap between "it works locally" and "it works in production" is where the real engineering is.
+ 
+</details>
+
+
+<details>
 <summary><b>Flight Alert System — Serverless AWS Event-Driven Architecture</b></summary>
 <br/>
 
