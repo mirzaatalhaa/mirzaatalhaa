@@ -206,11 +206,6 @@ open_to:
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
