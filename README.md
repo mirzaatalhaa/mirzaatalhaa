@@ -110,11 +110,9 @@ open_to:
 </details>
 
 <details>
-<summary><b>FlightWatch — Full-Stack Cloud-Native Aviation Tracking Platform</b></summary>
+<summary><b>FlightWatch — Full-Stack Cloud-Native AvGeek's Logging Platform</b></summary>
 <br/>
-> A production-grade, fully deployed web app where aviation enthusiasts log and analyze aircraft sightings — with a real custom domain, real users, and real AWS infrastructure under the hood.
- 
-🔗 **Live:** [flight-watch.xyz](https://flight-watch.xyz) &nbsp;|&nbsp; 📦 **Repo:** [github.com/mirzaatalhaa/FlightWatch](https://github.com/mirzaatalhaa/FlightWatch)
+> A production-grade, fully deployed web app where avgeeks can log and analyze aircraft sightings — with a real custom domain, real users, and real AWS infrastructure under the hood.
  
 **Stack:** React + Vite · Node.js · Express · PostgreSQL · Docker · Terraform · AWS (EC2 · RDS · S3 · CloudFront · ECR · Route 53 · ACM) · GitHub Actions · Nginx · JWT
  
