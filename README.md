@@ -238,6 +238,7 @@ exploring:
 
 ---
 <br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mirzatalhabaig163)
 [![Email](https://img.shields.io/badge/Reach%20out-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:mirzatalhab163@gmail.com)
