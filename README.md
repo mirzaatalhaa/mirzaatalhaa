@@ -184,28 +184,26 @@ open_to:
 </details>
 
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mirzaatalhaa&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaatalhaa&layout=compact&theme=algolia&hide_border=true&langs_count=8"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaatalhaa&theme=algolia&hide_border=true"/>
-
 </div>
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark&hide_border=true&area=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark&hide_border=true&area=true&area_color=0EA5E9&color=7DD3FC&line=0369A1&point=0EA5E9"/>
 </div>
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
 ---
 
 ## 🏅 Achievements
