@@ -208,9 +208,10 @@ open_to:
 
 <div align="center">
 
-![Contribution Grid](https://ghchart.rshah.org/mirzaatalhaa)
+<img src="https://raw.githubusercontent.com/mirzaatalhaa/mirzaatalhaa/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
 ---
 
 ## 🏅 Achievements
