@@ -237,11 +237,6 @@ exploring:
 ```
 
 ---
-
-<div align="center">
-
-*"Infrastructure should be boring. The products running on it shouldn't be."*
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mirzatalhabaig163)
