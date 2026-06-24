@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0C4A6E,80:0369A1,100:0EA5E9&text=Mirza%20Talha%20Baig&fontColor=f0f9ff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Backend%20Developer&descAlignY=60&descSize=18&descColor=7DD3FC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0C4A6E,80:0369A1,100:0EA5E9&text=Mirza%20Talha%20Baig&fontColor=f0f9ff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20AWS&descAlignY=60&descSize=18&descColor=7DD3FC" />
 
 </div>
 
@@ -21,7 +21,6 @@
 
 ```yaml
 name:     Mirza Talha Baig
-role:     Cloud & DevOps Engineering Student
 location: Kerala, India
 degree:   B.Tech — Computer Science & Engineering
 
@@ -197,8 +196,6 @@ open_to:
 |--|--|
 | 📖 **Quran Memorization** | Completed full Hifz of the Holy Quran |
 | 🗣️ **English Proficiency** | CEFR C1+ — LinguaSkill Cambridge |
-| ☁️ **Cloud Projects** | Multiple AWS production deployments — compute, serverless, networking |
-| 🔧 **Infrastructure** | Designed custom VPC architectures and full Terraform IaC pipelines |
 
 ---
 
