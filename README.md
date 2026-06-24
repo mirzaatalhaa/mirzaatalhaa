@@ -212,7 +212,7 @@ open_to:
 
 | | |
 |--|--|
-| 📖 **Quran Memorization** | Completed full Hifz of the Holy Quran |
+| 📖 **Quran Memorization** | Completed full Hifz of the Holy Quran in the Kingdom of Saudi Arabia |
 | 🗣️ **English Proficiency** | CEFR C1+ — LinguaSkill Cambridge |
 
 ---
