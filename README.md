@@ -1,284 +1,181 @@
-# Hi there, I'm Mirza Talha Baig 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0C4A6E,80:0369A1,100:0EA5E9&text=Mirza%20Talha%20Baig&fontColor=f0f9ff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Backend%20Developer&descAlignY=60&descSize=18&descColor=7DD3FC" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0F172A,30:0369A1,70:0EA5E9,100:7DD3FC&text=Mirza%20Talha%20Baig&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=45&desc=Cloud%20Engineering%20•%20AWS%20•%20DevOps&descAlignY=65&descSize=22" />
-
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech-CSE-0F172A?style=flat-square)
-![](https://img.shields.io/badge/AWS-Cloud%20Engineering-232F3E?style=flat-square&logo=amazonaws)
-![](https://img.shields.io/badge/DevOps-Terraform%20%26%20Docker-0369A1?style=flat-square)
-![](https://img.shields.io/badge/Location-Kerala%2C%20India-0EA5E9?style=flat-square)
-
-
-<br/>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mirzatalhabaig163">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-</a>
-
-<a href="mailto:mirzatalhab163@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mirzatalha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=F59E0B"/>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirza%20Talha%20Baig-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzatalhabaig163)
+[![Gmail](https://img.shields.io/badge/Gmail-mirzatalhab163%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mirzatalhab163@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mirzatalha.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mirzatalha.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=0EA5E9&label=Profile+Views)](https://github.com/mirzaatalhaa)
 
 </div>
 
 ---
 
-# About Me
+## `whoami`
 
-Computer Science and Engineering student passionate about **Cloud Engineering, DevOps, Infrastructure Automation, and Backend Systems**.
+```yaml
+name:     Mirza Talha Baig
+role:     Cloud & DevOps Engineering Student
+location: Kerala, India
+degree:   B.Tech — Computer Science & Engineering
 
-I enjoy building production-style cloud projects that help me understand how real systems are designed, deployed, monitored, and maintained.
+focus:
+  - AWS Cloud Architecture & Solutions Design
+  - Infrastructure as Code with Terraform
+  - Containerization & Orchestration (Docker → Kubernetes)
+  - CI/CD Pipelines & Automation
+  - Backend Systems & REST APIs
+  - Linux Administration & Observability
 
-My learning philosophy is simple:
+philosophy: "Build → Break → Fix → Automate → Scale"
 
-> Build → Break → Fix → Automate → Scale
-
-Currently focused on:
-
-- AWS Cloud Architecture
-- Infrastructure as Code (Terraform)
-- Containerization with Docker
-- CI/CD Automation
-- Linux Administration
-- Backend Development
-- Monitoring & Observability
-
-### Open To
-
-- Cloud Engineering Internships
-- DevOps Internships
-- Backend Development Roles
-- Open Source Contributions
-- AWS & Infrastructure Projects
+open_to:
+  - Cloud Engineering Internships
+  - DevOps Roles
+  - Backend Development Positions
+  - Open Source Contributions
+```
 
 ---
 
-# Tech Stack
+## ⚙️ Tech Stack
 
-## Languages
+**Languages**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql"/>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## Frontend
+**Cloud & Infrastructure**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-## Backend & Databases
+**Backend & Databases**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-## Cloud, DevOps & Tooling
+**Frontend**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github,githubactions,bash,nginx"/>
-</p>
-
----
-
-# Cloud & Infrastructure Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| AWS Compute | Intermediate | EC2, Lambda |
-| AWS Networking | Intermediate | VPC, Subnets, Route Tables, Security Groups |
-| Serverless | Intermediate | Lambda, DynamoDB, EventBridge, SNS |
-| Containers | Intermediate | Docker, Docker Compose |
-| CI/CD | Intermediate | GitHub Actions |
-| Monitoring | Intermediate | CloudWatch, SNS Alerts |
-| Infrastructure as Code | Intermediate | Terraform |
-| Backend Development | Intermediate | Node.js, Express.js, REST APIs |
-| Databases | Intermediate | PostgreSQL, DynamoDB |
-| Linux | Intermediate | CLI, SSH, Server Management |
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-# Featured Projects
+## ☁️ AWS Expertise
+
+| Domain | Services |
+|--------|----------|
+| **Compute** | EC2, Lambda |
+| **Networking** | VPC, Subnets, Route Tables, Security Groups, Internet Gateway |
+| **Serverless** | Lambda, EventBridge, SNS, DynamoDB |
+| **CI/CD & Automation** | GitHub Actions, IAM, S3 |
+| **Monitoring** | CloudWatch, SNS Alerts |
+| **IaC** | Terraform |
+
+---
+
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🚀 SkyTracker Dashboard</b></summary>
+<summary><b>SkyTracker Dashboard — Full-Stack Flight Analytics Platform</b></summary>
+<br/>
 
-### Overview
+> Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS.
 
-Production-style flight tracking platform deployed on AWS.
+**Stack:** React · Node.js · PostgreSQL · Docker · AWS EC2 · CloudWatch · GitHub Actions
 
-| Category | Details |
-|-----------|----------|
-| Stack | React, Node.js, PostgreSQL, Docker |
-| Cloud | AWS EC2 |
-| Monitoring | CloudWatch |
-| Automation | GitHub Actions |
-| Scale | 64,000+ flight snapshots |
-| Security | Security Groups, SSH Access |
-| Impact | Real-time flight analytics |
+**What I built:**
+- Multi-service Dockerized architecture orchestrated with Docker Compose
+- End-to-end CI/CD pipeline with GitHub Actions for automated deployments to EC2
+- PostgreSQL backend storing **64,000+ flight snapshots** with analytical queries
+- CloudWatch dashboards and alerts for uptime monitoring
+- Secure SSH access architecture with AWS Security Groups
 
-### Highlights
+**What I learned:** End-to-end ownership of a production deployment — from containerization to observability to rolling updates with zero manual intervention.
 
-- Containerized multi-service deployment
-- Automated CI/CD pipeline
-- CloudWatch monitoring
-- PostgreSQL analytics backend
-- Docker Compose orchestration
+</details>
+
+<details>
+<summary><b>Flight Alert System — Serverless AWS Event-Driven Architecture</b></summary>
+<br/>
+
+> Fully serverless aircraft monitoring system that detects and alerts on specific flight activity — entirely infrastructure-as-code.
+
+**Stack:** AWS Lambda · DynamoDB · EventBridge · SNS · Terraform · IAM
+
+**What I built:**
+- Event-driven pipeline triggered every 5 minutes via EventBridge Scheduler
+- DynamoDB state tracking with duplicate alert suppression logic
+- SNS-based notification delivery for matching flight events
+- Complete Terraform infrastructure — reproducible from `terraform apply`
+- IAM least-privilege roles for every Lambda function
+
+**What I learned:** Designing for idempotency and cost-efficiency in serverless systems; treating infrastructure as versioned code.
+
+</details>
+
+<details>
+<summary><b>SkyTracker IoT — ESP32 Cloud-Connected Flight Tracker</b></summary>
+<br/>
+
+> Embedded device that fetches live aircraft telemetry from AWS and displays it on an OLED screen in real time.
+
+**Stack:** ESP32 (C++) · AWS Lambda · API Gateway · OLED Display
+
+**What I built:**
+- Device-to-cloud communication over HTTPS from an ESP32 microcontroller
+- AWS Lambda + API Gateway endpoint serving live flight telemetry
+- Real-time OLED visualization of aircraft position and altitude data
+
+**What I learned:** The full IoT loop — from hardware constraints and embedded C++ to serverless cloud APIs and latency tuning.
+
+</details>
+
+<details>
+<summary><b>AWS Custom VPC — Networking Architecture from Scratch</b></summary>
+<br/>
+
+> Designed and deployed a complete AWS network environment — custom CIDR, public/private subnets, bastion host access — to master cloud networking fundamentals.
+
+**Stack:** AWS VPC · Subnets · Route Tables · Security Groups · Internet Gateway · Bastion Host
+
+**What I built:**
+- Custom CIDR block allocation with public and private subnet separation
+- Routing design with proper Internet Gateway and route table associations
+- Bastion host pattern for secure SSH access to private resources
+- Security group rules enforcing least-privilege network access
+
+**What I learned:** How AWS networking primitives compose into real architectures — and why getting the routing right matters more than the topology diagram.
 
 </details>
 
 ---
 
-<details>
-<summary><b>✈️ Flight Alert System</b></summary>
-
-### Overview
-
-Serverless aircraft monitoring system built entirely on AWS.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Lambda, DynamoDB |
-| Automation | EventBridge Scheduler |
-| Notifications | SNS |
-| IaC | Terraform |
-| Security | IAM Least Privilege |
-| Impact | Automated flight alerts |
-
-### Highlights
-
-- Event-driven architecture
-- Duplicate alert suppression
-- Terraform-managed infrastructure
-- Scheduled processing every 5 minutes
-- Serverless monitoring workflow
-
-</details>
-
----
-
-<details>
-<summary><b>📡 SkyTracker IoT</b></summary>
-
-### Overview
-
-Cloud-connected IoT aircraft tracking device.
-
-| Category | Details |
-|-----------|----------|
-| Hardware | ESP32 |
-| Cloud | AWS Lambda |
-| API | API Gateway |
-| Language | C++ |
-| Output | OLED Display |
-| Impact | Real-time telemetry |
-
-### Highlights
-
-- Device-to-cloud communication
-- API-driven telemetry processing
-- Embedded systems integration
-- Real-time tracking visualization
-
-</details>
-
----
-
-<details>
-<summary><b>🌐 AWS Custom VPC Architecture</b></summary>
-
-### Overview
-
-Designed and implemented a complete AWS networking environment from scratch.
-
-| Category | Details |
-|-----------|----------|
-| Network | Custom VPC |
-| Routing | Route Tables |
-| Security | Security Groups |
-| Connectivity | Internet Gateway |
-| Access | Bastion Host |
-| Goal | Infrastructure Learning |
-
-### Highlights
-
-- Custom CIDR architecture
-- Public & private networking concepts
-- Routing and connectivity design
-- Secure SSH architecture
-- AWS networking fundamentals
-
-</details>
-
----
-
-# Experience
-
-### Cloud & DevOps Projects
-
-**Independent Engineering Projects**  
-**2025 – Present**
-
-Designed, deployed, and managed production-style cloud applications while learning industry-standard DevOps and cloud engineering practices.
-
-#### Scope
-
-- AWS Infrastructure Design
-- CI/CD Automation
-- Infrastructure as Code
-- Cloud Monitoring
-- Containerization
-- Backend Development
-- Linux Administration
-
-#### Skills
-
-`AWS` `Terraform` `Docker` `GitHub Actions` `Linux` `Node.js` `PostgreSQL`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|------------|----------|
-| Quran Memorization | Completed full memorization of the Holy Quran |
-| English Proficiency | CEFR C1+ (LinguaSkill Cambridge) |
-| Cloud Projects | Built and deployed multiple AWS-based production projects |
-| Infrastructure | Designed custom AWS networking architectures |
-
----
-
-
-
-
-
-# GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzaatalhaa&show_icons=true&theme=algolia&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaatalhaa&layout=compact&theme=algolia&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mirzaatalhaa&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaatalhaa&layout=compact&theme=algolia&hide_border=true&langs_count=8"/>
 
 </div>
-
----
-
-# GitHub Streak
 
 <div align="center">
 
@@ -286,72 +183,57 @@ Designed, deployed, and managed production-style cloud applications while learni
 
 </div>
 
----
-
-
-# Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark"/>>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
+## 🏅 Achievements
 
+| | |
+|--|--|
+| 📖 **Quran Memorization** | Completed full Hifz of the Holy Quran |
+| 🗣️ **English Proficiency** | CEFR C1+ — LinguaSkill Cambridge |
+| ☁️ **Cloud Projects** | Multiple AWS production deployments — compute, serverless, networking |
+| 🔧 **Infrastructure** | Designed custom VPC architectures and full Terraform IaC pipelines |
 
-# Current Focus
+---
+
+## 📍 What's Next
 
 ```yaml
-Learning:
-  - AWS Solutions Architecture
-  - Terraform
-  - Kubernetes
-  - Linux Administration
+currently_learning:
+  - AWS Solutions Architect Associate
+  - Kubernetes (CKA path)
+  - Advanced Terraform — modules & remote state
 
-Building:
-  - Cloud Native Applications
-  - Infrastructure Automation Projects
-  - Backend Systems
+currently_building:
+  - Cloud-native applications on AWS
+  - More infrastructure automation projects
 
-Exploring:
-  - Observability
-  - Platform Engineering
-  - Distributed Systems
-
-Open To:
-  - Cloud Engineering Internships
-  - DevOps Roles
-  - Open Source Contributions
+exploring:
+  - Observability (Prometheus, Grafana)
+  - Platform Engineering patterns
+  - Distributed systems design
 ```
 
 ---
 
-# Connect
-
 <div align="center">
 
-<a href="mailto:mirzatalhab163@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+*"Infrastructure should be boring. The products running on it shouldn't be."*
 
-<a href="https://github.com/mirzaatalhaa">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mirzatalhabaig163)
+[![Email](https://img.shields.io/badge/Reach%20out-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:mirzatalhab163@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mirzaatalhaa)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-*"Building scalable systems one deployment at a time."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:0C4A6E,80:0369A1,100:0EA5E9"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&section=footer&color=0:0F172A,30:0369A1,70:0EA5E9,100:7DD3FC"/>
