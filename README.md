@@ -32,7 +32,6 @@ focus:
   - Backend Systems & REST APIs
   - Linux Administration & Observability
 
-philosophy: "Build → Break → Fix → Automate → Scale"
 
 open_to:
   - Cloud Engineering Internships
