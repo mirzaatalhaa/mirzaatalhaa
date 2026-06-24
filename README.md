@@ -32,7 +32,6 @@ focus:
   - Backend Systems & REST APIs
   - Linux Administration & Observability
 
-
 open_to:
   - Cloud Engineering Internships
   - DevOps Roles
