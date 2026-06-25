@@ -103,7 +103,7 @@ open_to:
 <summary><b>SkyTracker Dashboard — Full-Stack Flight Cloud-Native Tracking & Analytics Platform</b></summary>
 <br/>
 
-> Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS. → [View Repo](https://github.com/your-username/skytracker-dashboard)
+> Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS. → [View Repo](https://github.com/mirzaatalhaa/SkyTracker-Dashboard.git)
 
 **Stack:** React · Node.js · PostgreSQL · Docker · AWS EC2 · CloudWatch · GitHub Actions
 
@@ -121,7 +121,7 @@ open_to:
 <summary><b>FlightWatch — Full-Stack Cloud-Native AvGeek's Logging Platform</b></summary>
 <br/>
 
-> A production-grade web app where avgeeks can log and analyze aircraft sightings — real domain, real users, real AWS infrastructure. → [View Repo](https://github.com/your-username/flightwatch)
+> A production-grade web app where avgeeks can log and analyze aircraft sightings — real domain, real users, real AWS infrastructure. → [View Repo](https://github.com/mirzaatalhaa/FlightWatch.git)
 
 **Stack:** React + Vite · Node.js · Express · PostgreSQL · Docker · Terraform · AWS (EC2 · RDS · S3 · CloudFront · ECR · Route 53 · ACM) · GitHub Actions · Nginx · JWT
 
@@ -141,7 +141,7 @@ open_to:
 <summary><b>FlightWatch Ground Control — Internal Operations Console</b></summary>
 <br/>
 
-> Python-based command-line operations dashboard for monitoring the health, analytics, and activity of the FlightWatch platform in real time. → [View Repo](https://github.com/your-username/flightwatch-ground-control)
+> Python-based command-line operations dashboard for monitoring the health, analytics, and activity of the FlightWatch platform in real time. → [View Repo](https://github.com/mirzaatalhaa/flightwatch-control.git)
 
 **Stack:** Python · REST APIs · JWT · Node.js · Express · PostgreSQL · Docker · Nginx · AWS EC2 · Amazon RDS · Terraform · GitHub Actions
 
@@ -159,7 +159,7 @@ open_to:
 <summary><b>Flight Alert System — Serverless AWS Event-Driven Architecture</b></summary>
 <br/>
 
-> Fully serverless aircraft monitoring system that detects and alerts on specific flight activity — entirely infrastructure-as-code. → [View Repo](https://github.com/your-username/flight-alert-system)
+> Fully serverless aircraft monitoring system that detects and alerts on specific flight activity — entirely infrastructure-as-code. → [View Repo](https://github.com/mirzaatalhaa/Flight-Alert-System.git)
 
 **Stack:** AWS Lambda · DynamoDB · EventBridge · SNS · Terraform · IAM
 
@@ -178,7 +178,7 @@ open_to:
 <summary><b>SkyTracker IoT — ESP32 Cloud-Connected Flight Tracker</b></summary>
 <br/>
 
-> Embedded device that fetches live aircraft telemetry from AWS and displays it on an OLED screen in real time. → [View Repo](https://github.com/your-username/skytracker-iot)
+> Embedded device that fetches live aircraft telemetry from AWS and displays it on an OLED screen in real time. → [View Repo](https://github.com/mirzaatalhaa/SkyTracker-IoT.git)
 
 **Stack:** ESP32 (C++) · AWS Lambda · API Gateway · OLED Display
 
@@ -195,7 +195,7 @@ open_to:
 <summary><b>AWS Custom VPC — Networking Architecture from Scratch</b></summary>
 <br/>
 
-> Designed and deployed a complete AWS network environment — custom CIDR, public/private subnets, bastion host access. → [View Repo](https://github.com/your-username/aws-custom-vpc)
+> Designed and deployed a complete AWS network environment — custom CIDR, public/private subnets, bastion host access. → [View Repo](https://github.com/mirzaatalhaa/AWS-Custom-VPC.git)
 
 **Stack:** AWS VPC · Subnets · Route Tables · Security Groups · Internet Gateway · Bastion Host
 
