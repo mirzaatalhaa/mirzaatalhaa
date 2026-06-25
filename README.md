@@ -100,7 +100,7 @@ open_to:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>SkyTracker Dashboard — Full-Stack Flight Analytics Platform</b></summary>
+<summary><b>SkyTracker Dashboard — Full-Stack Flight Cloud-Native Tracking & Analytics Platform</b></summary>
 <br/>
 
 > Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS. → [View Repo](https://github.com/your-username/skytracker-dashboard)
