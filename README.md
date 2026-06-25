@@ -102,7 +102,7 @@ open_to:
 <summary><b>SkyTracker Dashboard — Full-Stack Flight Analytics Platform</b></summary>
 <br/>
 
-> Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS.
+> Production-style flight tracking platform with real-time analytics, containerized and deployed on AWS. → [View Repo](https://github.com/your-username/skytracker-dashboard)
 
 **Stack:** React · Node.js · PostgreSQL · Docker · AWS EC2 · CloudWatch · GitHub Actions
 
@@ -111,43 +111,60 @@ open_to:
 - End-to-end CI/CD pipeline with GitHub Actions for automated deployments to EC2
 - PostgreSQL backend storing **64,000+ flight snapshots** with analytical queries
 - CloudWatch dashboards and alerts for uptime monitoring
-- Secure SSH access architecture with AWS Security Groups
 
-**What I learned:** End-to-end ownership of a production deployment — from containerization to observability to rolling updates with zero manual intervention.
+**What I learned:** End-to-end ownership of a production deployment — from containerization to observability to zero-intervention rolling updates.
 
 </details>
 
 <details>
 <summary><b>FlightWatch — Full-Stack Cloud-Native AvGeek's Logging Platform</b></summary>
 <br/>
-> A production-grade, fully deployed web app where avgeeks can log and analyze aircraft sightings — with a real custom domain, real users, and real AWS infrastructure under the hood.
 
- 
+> A production-grade web app where avgeeks can log and analyze aircraft sightings — real domain, real users, real AWS infrastructure. → [View Repo](https://github.com/your-username/flightwatch)
+
 **Stack:** React + Vite · Node.js · Express · PostgreSQL · Docker · Terraform · AWS (EC2 · RDS · S3 · CloudFront · ECR · Route 53 · ACM) · GitHub Actions · Nginx · JWT
- 
+
 **What I built:**
-- React/Vite frontend hosted on S3, globally distributed via CloudFront with cache invalidation on every deploy
-- Dockerized Express backend on EC2 behind Nginx reverse proxy with Let's Encrypt SSL — serving a custom domain with ACM
-- PostgreSQL on RDS inside a **private subnet** — no public access, reachable only from the backend EC2 via security group rules
-- JWT authentication with bcryptjs password hashing for all protected API routes
-- Two independent GitHub Actions pipelines (backend + frontend) — push to `main`, everything else is fully automated: build → push to ECR → SSH into EC2 → pull & redeploy
-- Complete Terraform IaC: VPC, subnets, Route 53, CloudFront, RDS, EC2 with IAM Instance Profile — no manual console clicks
-**What I learned:** What it actually means to run a production system — DNS propagation, SSL cert provisioning, ECR image management, RDS SSL connection requirements, and debugging `bcrypt` compilation failures across OS boundaries inside Docker. The gap between "it works locally" and "it works in production" is where the real engineering is.
- 
+- React/Vite frontend on S3, globally distributed via CloudFront with cache invalidation on every deploy
+- Dockerized Express backend on EC2 behind Nginx with Let's Encrypt SSL on a custom domain
+- PostgreSQL on RDS in a **private subnet** — reachable only from the backend EC2 via security group rules
+- JWT authentication with bcryptjs password hashing on all protected routes
+- Two independent GitHub Actions pipelines — push to `main` triggers build → ECR push → EC2 redeploy automatically
+- Full Terraform IaC: VPC, subnets, Route 53, CloudFront, RDS, EC2 — no manual console clicks
+
+**What I learned:** What it actually means to run a production system — DNS, SSL provisioning, RDS SSL requirements, and debugging `bcrypt` failures across OS boundaries in Docker.
+
 </details>
 
+<details>
+<summary><b>FlightWatch Ground Control — Internal Operations Console</b></summary>
+<br/>
+
+> Python-based command-line operations dashboard for monitoring the health, analytics, and activity of the FlightWatch platform in real time. → [View Repo](https://github.com/your-username/flightwatch-ground-control)
+
+**Stack:** Python · REST APIs · JWT · Node.js · Express · PostgreSQL · Docker · Nginx · AWS EC2 · Amazon RDS · Terraform · GitHub Actions
+
+**What I built:**
+- Production health monitoring and database connectivity verification against live infrastructure
+- JWT-authenticated operator login with secure token-based API communication
+- Live analytics dashboard covering aircraft, airline, and airport statistics
+- System and network diagnostics for the operator environment
+
+**What I learned:** How operational tooling complements user-facing products — building the visibility layer that makes running a production platform sustainable.
+
+</details>
 
 <details>
 <summary><b>Flight Alert System — Serverless AWS Event-Driven Architecture</b></summary>
 <br/>
 
-> Fully serverless aircraft monitoring system that detects and alerts on specific flight activity — entirely infrastructure-as-code.
+> Fully serverless aircraft monitoring system that detects and alerts on specific flight activity — entirely infrastructure-as-code. → [View Repo](https://github.com/your-username/flight-alert-system)
 
 **Stack:** AWS Lambda · DynamoDB · EventBridge · SNS · Terraform · IAM
 
 **What I built:**
 - Event-driven pipeline triggered every 5 minutes via EventBridge Scheduler
-- DynamoDB state tracking with duplicate alert suppression logic
+- DynamoDB state tracking with duplicate alert suppression
 - SNS-based notification delivery for matching flight events
 - Complete Terraform infrastructure — reproducible from `terraform apply`
 - IAM least-privilege roles for every Lambda function
@@ -160,7 +177,7 @@ open_to:
 <summary><b>SkyTracker IoT — ESP32 Cloud-Connected Flight Tracker</b></summary>
 <br/>
 
-> Embedded device that fetches live aircraft telemetry from AWS and displays it on an OLED screen in real time.
+> Embedded device that fetches live aircraft telemetry from AWS and displays it on an OLED screen in real time. → [View Repo](https://github.com/your-username/skytracker-iot)
 
 **Stack:** ESP32 (C++) · AWS Lambda · API Gateway · OLED Display
 
@@ -169,7 +186,7 @@ open_to:
 - AWS Lambda + API Gateway endpoint serving live flight telemetry
 - Real-time OLED visualization of aircraft position and altitude data
 
-**What I learned:** The full IoT loop — from hardware constraints and embedded C++ to serverless cloud APIs and latency tuning.
+**What I learned:** The full IoT loop — hardware constraints and embedded C++ through to serverless APIs and latency tuning.
 
 </details>
 
@@ -177,20 +194,19 @@ open_to:
 <summary><b>AWS Custom VPC — Networking Architecture from Scratch</b></summary>
 <br/>
 
-> Designed and deployed a complete AWS network environment — custom CIDR, public/private subnets, bastion host access — to master cloud networking fundamentals.
+> Designed and deployed a complete AWS network environment — custom CIDR, public/private subnets, bastion host access. → [View Repo](https://github.com/your-username/aws-custom-vpc)
 
 **Stack:** AWS VPC · Subnets · Route Tables · Security Groups · Internet Gateway · Bastion Host
 
 **What I built:**
-- Custom CIDR block allocation with public and private subnet separation
-- Routing design with proper Internet Gateway and route table associations
+- Custom CIDR block with public and private subnet separation
+- Routing design with Internet Gateway and route table associations
 - Bastion host pattern for secure SSH access to private resources
 - Security group rules enforcing least-privilege network access
 
-**What I learned:** How AWS networking primitives compose into real architectures — and why getting the routing right matters more than the topology diagram.
+**What I learned:** How AWS networking primitives compose into real architectures — and why getting routing right matters more than the topology diagram.
 
 </details>
-
 ---
  
 ## 📊 GitHub Stats
