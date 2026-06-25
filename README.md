@@ -214,16 +214,6 @@ open_to:
 
 </div>
 
-
----
-
-## 🏅 Achievements
-
-| | |
-|--|--|
-| 📖 **Quran Memorization** | Completed full Hifz of the Holy Quran in the Kingdom of Saudi Arabia |
-| 🗣️ **English Proficiency** | CEFR C1+ — LinguaSkill Cambridge |
-
 ---
 
 ## 📍 What's Next
