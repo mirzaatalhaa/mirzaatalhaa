@@ -82,18 +82,7 @@ open_to:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30" alt="CSS3"/>
 </p>
 
----
 
-## ☁️ AWS Expertise
-
-| Domain | Services |
-|--------|----------|
-| **Compute** | EC2, Lambda |
-| **Networking** | VPC, Subnets, Route Tables, Security Groups, Internet Gateway |
-| **Serverless** | Lambda, EventBridge, SNS, DynamoDB |
-| **CI/CD & Automation** | GitHub Actions, IAM, S3 |
-| **Monitoring** | CloudWatch, SNS Alerts |
-| **IaC** | Terraform |
 
 ---
 
