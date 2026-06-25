@@ -204,13 +204,17 @@ open_to:
  
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaatalhaa&theme=algolia&hide_border=true"/>
+
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzaatalhaa&theme=github-dark&hide_border=true&area=true&area_color=0EA5E9&color=7DD3FC&line=0369A1&point=0EA5E9"/>
 
 </div>
-
 
 ---
 
