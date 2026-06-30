@@ -89,7 +89,7 @@ open_to:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>Terraform AWS Static Website Module — Reusable IaC Module for S3 + CloudFront Static Hosting</b></summary>
+<summary><b>Terraform AWS Static Website Module — Reusable IaC Module for S3 + CloudFront Static Hosting (Open-Source)</b></summary>
 <br/>
 > Open-source Terraform module that provisions secure, production-ready static website infrastructure on AWS. Framework-agnostic — works with React, Vue, Angular, Next.js, Astro, and more. → [View Repo](https://github.com/mirzaatalhaa/terraform-aws-static-website.git)
  
