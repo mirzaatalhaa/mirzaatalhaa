@@ -19,8 +19,8 @@
 ---
 
 ## whoami
-yaml
-```
+
+```yaml
 
 name:     Mirza Talha Baig
 location: Kerala, India
