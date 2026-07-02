@@ -18,28 +18,25 @@
 
 ---
 
-## About Me
-
-I'm a Computer Science undergrad (B.Tech) based in Kerala, India, focused on 
-Cloud Architecture and DevOps. I like building infrastructure that doesn't 
-fall over, and automating the parts that shouldn't be done by hand.
-
-**What I work with:**
-- ☁️ **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda)
-- 🏗️ **Infrastructure as Code:** Terraform
-- 🐳 **Containers & Orchestration:** Docker, Kubernetes
-- ⚙️ **CI/CD:** GitHub Actions, Jenkins
-- 🖥️ **Backend:** Node.js, REST APIs
-- 🐧 **OS & Observability:** Linux, Prometheus/Grafana
-
-**Currently:** exploring ways to make infra more resilient and pipelines more boring (in a good way).
-
-**I'm open to:**
-- 🌱 Cloud Engineering Internships
-- 🔧 DevOps Roles
-- 💻 Backend Development Positions
-- 🤝 Open Source Contributions
-
+## whoami
+```
+yaml
+name:     Mirza Talha Baig
+location: Kerala, India
+degree:   B.Tech — Computer Science & Engineering
+focus:
+  - AWS Cloud Architecture & Solutions Design
+  - Infrastructure as Code with Terraform
+  - Containerization & Orchestration (Docker → Kubernetes)
+  - CI/CD Pipelines & Automation
+  - Backend Systems & REST APIs
+  - Linux Administration & Observability
+open_to:
+  - Cloud Engineering Internships
+  - DevOps Roles
+  - Backend Development Positions
+  - Open Source Contributions
+```
 ---
 
 ## ⚙️ Tech Stack
