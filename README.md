@@ -19,8 +19,9 @@
 ---
 
 ## whoami
-```
 yaml
+```
+
 name:     Mirza Talha Baig
 location: Kerala, India
 degree:   B.Tech — Computer Science & Engineering
