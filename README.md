@@ -232,21 +232,6 @@ open_to:
 
 </div>
 
----
-
-## 📍 What's Next
-
-```yaml
-currently_learning:
-  - AWS Solutions Architect Associate
-  - Kubernetes (CKA path)
-  - Advanced Terraform — modules & remote state
-
-currently_building:
-  - Cloud-native applications on AWS
-  - More infrastructure automation projects
-
-```
 
 ---
 <br/>
