@@ -246,10 +246,6 @@ currently_building:
   - Cloud-native applications on AWS
   - More infrastructure automation projects
 
-exploring:
-  - Observability (Prometheus, Grafana)
-  - Platform Engineering patterns
-  - Distributed systems design
 ```
 
 ---
