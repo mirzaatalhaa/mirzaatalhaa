@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirza%20Talha%20Baig-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzatalhabaig163)
 [![Gmail](https://img.shields.io/badge/Gmail-mirzatalhab163%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mirzatalhab163@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mirzatalha.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mirzatalha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mirzatalha.tech-000000?style=flat-square&logo=vercel&logoColor=white)](https://mirzatalha.tech/)
 [![Profile Views](https://komarev.com/ghpvc/?username=mirzaatalhaa&style=flat-square&color=0EA5E9&label=Profile+Views)](https://github.com/mirzaatalhaa)
 
 </div>
